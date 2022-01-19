@@ -5,3 +5,6 @@
 
 #This is a test.
 -fix-B
+
+#Branch C test
+-feature-C
